@@ -18,7 +18,7 @@ export default function Navbar() {
             <a>Experience</a>
           </Link>
 
-          <Link href="/todolist">
+          <Link href="/lab-07">
             <a>ToDo</a>
           </Link>
         </div>
